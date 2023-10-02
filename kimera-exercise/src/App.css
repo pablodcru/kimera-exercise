@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+    background-color: #F7F7F7;
+    min-height: 100vh;
+    font-family: 'Indie Flower', sans-serif;
+}
+
+@layer utilities {
+    .font-indie {
+        font-family: 'Indie Flower', cursive;
+    }
+}
+
+
