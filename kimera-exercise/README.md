@@ -32,13 +32,19 @@ Se explica a continuación la estructura del proyecto:
 
 ## Pasos para iniciar proyecto
 
+Una vez hayamos clonado el repositorio, accedemos al directorio mediante:
+
+cd kimera-exercise/kimera-exercise
+
  ### Localmente
 
- Para iniciar el proyecto de forma local, basta con el siguiente comando:
+ Para iniciar el proyecto de forma local, basta con introducir los siguientes comandos:
 
- npm run dev
+ npm i 
 
- y el proyecto estará disponible en el puerto 5173 de localhost.
+ npm run dev 
+
+ ;y el proyecto estará disponible en el puerto 5173 de localhost.
 
  ### Docker
 
@@ -46,11 +52,11 @@ Para iniciar el proyecto en Docker, simplemente tenemos que crear una imagen med
 
 docker build -t kimera-exercise .
 
-y una vez se haya creado la imagen, iniciamos el proyecto con el comando:
+;y una vez se haya creado la imagen, iniciamos el proyecto con el comando:
 
 docker run -p 8080:8080 kimera-exercise
 
-cuando haya acabado, el proyecto estará iniciado en el puerto 8080 de localhost.
+;cuando haya acabado, el proyecto estará iniciado en el puerto 8080 de localhost.
  
 
 
