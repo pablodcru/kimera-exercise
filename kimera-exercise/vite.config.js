@@ -12,6 +12,9 @@ export default defineConfig({
   //we need to define which port will run on when we execute npm run preview. also host: true will expose the project in public adresses
   preview: {
     host: true,
-    port: 8080
+    port: 8080,
+    watch: {
+      usePolling: true
+    }
   }
 })
