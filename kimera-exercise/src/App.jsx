@@ -5,7 +5,7 @@ import UsersContainer from "./UsersContainer";
 
 
 export default function App() {
-  const [searchedUser, setSearchedUser] = useState()
+  const [searchedUser, setSearchedUser] = useState('')
 
   return (
     <div className=" min-h-screen">

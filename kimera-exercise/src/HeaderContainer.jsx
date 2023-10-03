@@ -5,7 +5,7 @@ import SearchBar from "./SearchBar";
 export default function HeaderContainer({searchedUser, setSearchedUser}) {
 
     return (
-        <div className="min-h-[20vh] bg-gradient-to-r from-[#E6A44D] to-[#F0BA74] w-full relative">
+        <div className="min-h-[20vh] bg-gradient-to-r from-[#E6A44D] to-[#f6dcbc] w-full relative">
             <img src={kimeraLogo} alt="logo" className="absolute top-2 left-5" />
             <div className="absolute bottom-5 w-full px-32">
                 <div className="flex justify-between items-start ">
