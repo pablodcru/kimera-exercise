@@ -16,18 +16,18 @@ Una vez se genere, nos dará a elegir en la consola diferentes opciones y elegir
 
 Antes de empezar el desarrollo, vamos a proceder a instalar TailwindCSS. Para ello seguimos los pasos que indican en el siguiente enlace:
 
-https://tailwindcss.com/docs/guides/vite
+[Guía instalación Tailwind] https://tailwindcss.com/docs/guides/vite
 
 Aparte, hemos instalado react-router-dom, para la navegación entre páginas; y vite-plugin-svgr, para renderizar svg de una forma eficiente.
 
 ## Estructura
 
 Se explica a continuación la estructura del proyecto:
-  -> assets: imágenes.
-  -> components: piezas de códigos reutilizables, tales como el loader.
-  -> pages: páginas con url propia.
-  -> styles: archivos de estilo.
-  -> templates: archivos más complejos que podrían ser reutilizables con unas mínimas modificaciones en caso de que el proyecto siguiera creciendo.
+  - assets: imágenes.
+  - components: piezas de códigos reutilizables, tales como el loader.
+  - pages: páginas con url propia.
+  - styles: archivos de estilo.
+  - templates: archivos más complejos que podrían ser reutilizables con unas mínimas modificaciones en caso de que el proyecto siguiera creciendo.
 
 
 ## Pasos para iniciar proyecto
