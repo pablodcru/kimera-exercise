@@ -1,6 +1,6 @@
 # Kimera Application Exercise
 
-Vamos a desarrollar una aplicación, que la he llamado 'FindMe', que muestre info de usuarios obtenidos de la API 'randomusers' en forma de cards. Cuando se haga click sobre algún card, abrir nueva página mostrando información completa de dicho usuario. Responsiva para todas las pantallas.
+Vamos a desarrollar una aplicación, la cual he llamado 'FindMe', que muestre info de usuarios obtenidos de la API 'randomusers' en forma de cards. Cuando se haga click sobre algún card, abrir nueva página mostrando información completa de dicho usuario. Responsiva para todas las pantallas.
 
 Para este proyecto utilizaremos React como framework de desarrollo y Docker como herramienta para llevar a producción.
 
