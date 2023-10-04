@@ -2,7 +2,9 @@
 
 Vamos a desarrollar una aplicación, la cual he llamado 'FindMe', que muestre info de usuarios obtenidos de la API 'randomusers' en forma de cards. Cuando se haga click sobre algún card, abrir nueva página mostrando información completa de dicho usuario. Responsiva para todas las pantallas.
 
-Para este proyecto utilizaremos React como framework de desarrollo y Docker como herramienta para llevar a producción.
+Para este proyecto utilizaremos React como framework de desarrollo y Docker como herramienta para llevar a producción. También utilizé Figma para realizar el diseño previo al inicio del desarrollo del código para tener clara la idea del producto final; se puede ver los sketch en el siguiente enlace:
+
+[Diseño en Figma] https://www.figma.com/file/ZhFqdw9UeRZpc3YvMdRdMS/kimera-exercise?type=design&node-id=0%3A1&mode=design&t=MxUe5je6XbbvlXMU-1
 
 ## Instalación
 
